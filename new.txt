@@ -1,0 +1,15 @@
+나는 메인이야
+
+total 54
+drwxr-xr-x 1 sol 197121     0 May  8 14:32 ./
+drwxr-xr-x 1 sol 197121     0 May  8 14:27 ../
+drwxr-xr-x 1 sol 197121     0 May  8 14:31 .git/
+-rw-r--r-- 1 sol 197121  7360 May  8 14:27 .gitignore
+-rw-r--r-- 1 sol 197121 35823 May  8 14:27 LICENSE
+-rw-r--r-- 1 sol 197121    69 May  8 14:27 README.md
+-rw-r--r-- 1 sol 197121   369 May  8 14:27 list.txt
+mew file
+
+
+
+-rw-r--r-- 1 sol 197121     0 May  8 14:32 new.txt
